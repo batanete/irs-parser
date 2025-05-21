@@ -1,0 +1,1308 @@
+<Modelo3IRSv2025>
+<Rosto>
+<QuadroInicio />
+<Quadro01>
+<Q01C01>728</Q01C01>
+</Quadro01>
+<Quadro02>
+<Q02C01>2024</Q02C01>
+</Quadro02>
+<Quadro03>
+<Q03C01>254984606</Q03C01>
+</Quadro03>
+<Quadro04>
+<Q04B01>1</Q04B01>
+</Quadro04>
+<Quadro05>
+<Q05B01>S</Q05B01>
+<Q05C03>249665204</Q05C03>
+</Quadro05>
+<Quadro06>
+<Rostoq06BT01>
+<Rostoq06BT01-Linha numero="1">
+<NIF>322064910</NIF>
+</Rostoq06BT01-Linha>
+</Rostoq06BT01>
+<Rostoq06BT02 />
+<Rostoq06BT03 />
+<Rostoq06CT01 />
+</Quadro06>
+<Quadro07>
+<Rostoq07AT01 />
+<Rostoq07BT01 />
+<Rostoq07CT01 />
+</Quadro07>
+<Quadro08>
+<Q08B01>1</Q08B01>
+</Quadro08>
+<Quadro09>
+<Q09C01>PT50003509950057955453051</Q09C01>
+<Q09B01b>true</Q09B01b>
+<Q09B01>S</Q09B01>
+</Quadro09>
+<Quadro10>
+<Q10B01>1</Q10B01>
+</Quadro10>
+<Quadro11 />
+<Quadro13>
+<Rostoq13T01 />
+</Quadro13>
+</Rosto>
+<AnexoA>
+<Quadro02>
+<AnexoAq02C01>2024</AnexoAq02C01>
+</Quadro02>
+<Quadro03>
+<AnexoAq03C01>254984606</AnexoAq03C01>
+<AnexoAq03C02>249665204</AnexoAq03C02>
+</Quadro03>
+<Quadro04>
+<AnexoAq04AT01>
+<AnexoAq04AT01-Linha numero="1">
+<NIF>514682183</NIF>
+<CodRendimentos>401</CodRendimentos>
+<Titular>A</Titular>
+<Rendimentos>41389.92</Rendimentos>
+<Retencoes>9146.00</Retencoes>
+<Contribuicoes>4552.93</Contribuicoes>
+<Quotizacoes>0.00</Quotizacoes>
+</AnexoAq04AT01-Linha>
+<AnexoAq04AT01-Linha numero="2">
+<NIF>514480343</NIF>
+<CodRendimentos>401</CodRendimentos>
+<Titular>B</Titular>
+<Rendimentos>19814.97</Rendimentos>
+<Retencoes>3956.00</Retencoes>
+<Contribuicoes>2179.63</Contribuicoes>
+<Quotizacoes>0.00</Quotizacoes>
+</AnexoAq04AT01-Linha>
+</AnexoAq04AT01>
+<AnexoAq04AT01SomaC01>61204.89</AnexoAq04AT01SomaC01>
+<AnexoAq04AT01SomaC02>13102.00</AnexoAq04AT01SomaC02>
+<AnexoAq04AT01SomaC03>6732.56</AnexoAq04AT01SomaC03>
+<AnexoAq04AT01SomaC04>0.00</AnexoAq04AT01SomaC04>
+<AnexoAq04AT01SomaC05>0.00</AnexoAq04AT01SomaC05>
+<AnexoAq04BT01 />
+<AnexoAq04CT01 />
+<AnexoAq04CT02 />
+<AnexoAq04DT01 />
+<AnexoAq04DT02 />
+<AnexoAq04ET01 />
+<AnexoAq04FT01 />
+<AnexoAq04GT01 />
+</Quadro04>
+<Quadro05>
+<AnexoAq05AT01 />
+<AnexoAq05BT01 />
+</Quadro05>
+<Quadro06>
+<AnexoAq06T01 />
+</Quadro06>
+</AnexoA>
+<AnexoJ id="254984606">
+<Quadro02>
+<AnexoJq02C01>2024</AnexoJq02C01>
+</Quadro02>
+<Quadro03>
+<AnexoJq03C01>254984606</AnexoJq03C01>
+<AnexoJq03C02>249665204</AnexoJq03C02>
+<AnexoJq03C03>254984606</AnexoJq03C03>
+</Quadro03>
+<Quadro04>
+<AnexoJq04AT01 />
+<AnexoJq04CT01 />
+</Quadro04>
+<Quadro05>
+<AnexoJq05AT01 />
+<AnexoJq05CT01 />
+</Quadro05>
+<Quadro06>
+<AnexoJq06AT01 />
+<AnexoJq06BT01 />
+</Quadro06>
+<Quadro07>
+<AnexoJq07AT01 />
+</Quadro07>
+<Quadro08>
+<AnexoJq08AT01 />
+</Quadro08>
+<Quadro09>
+<AnexoJq091AT01 />
+<AnexoJq091BT01 />
+<AnexoJq092AT01>
+
+
+<AnexoJq092AT01-Linha numero="1">
+			    <NLinha>951</NLinha>
+				<CodPais>250</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>1</MesRealizacao>
+				<DiaRealizacao>25</DiaRealizacao>
+                <ValorRealizacao>36.22</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>1</MesAquisicao>
+                <DiaAquisicao>25</DiaAquisicao>
+                <ValorAquisicao>36.18</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="2">
+			    <NLinha>952</NLinha>
+				<CodPais>250</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>1</MesRealizacao>
+				<DiaRealizacao>25</DiaRealizacao>
+                <ValorRealizacao>45.35</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>1</MesAquisicao>
+                <DiaAquisicao>24</DiaAquisicao>
+                <ValorAquisicao>45.26</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="3">
+			    <NLinha>953</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>1</MesRealizacao>
+				<DiaRealizacao>22</DiaRealizacao>
+                <ValorRealizacao>956.09</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>12</MesAquisicao>
+                <DiaAquisicao>28</DiaAquisicao>
+                <ValorAquisicao>1000.59</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="4">
+			    <NLinha>954</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>1</MesRealizacao>
+				<DiaRealizacao>24</DiaRealizacao>
+                <ValorRealizacao>48.14</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>5</MesAquisicao>
+                <DiaAquisicao>17</DiaAquisicao>
+                <ValorAquisicao>35.64</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="5">
+			    <NLinha>955</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>1</MesRealizacao>
+				<DiaRealizacao>24</DiaRealizacao>
+                <ValorRealizacao>48.14</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>5</MesAquisicao>
+                <DiaAquisicao>30</DiaAquisicao>
+                <ValorAquisicao>39.66</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="6">
+			    <NLinha>956</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>1</MesRealizacao>
+				<DiaRealizacao>24</DiaRealizacao>
+                <ValorRealizacao>24.07</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>5</MesAquisicao>
+                <DiaAquisicao>31</DiaAquisicao>
+                <ValorAquisicao>19.76</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="7">
+			    <NLinha>957</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>5</DiaRealizacao>
+                <ValorRealizacao>260.08</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>5</MesAquisicao>
+                <DiaAquisicao>30</DiaAquisicao>
+                <ValorAquisicao>220.47</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="8">
+			    <NLinha>958</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>5</DiaRealizacao>
+                <ValorRealizacao>86.73</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>7</MesAquisicao>
+                <DiaAquisicao>17</DiaAquisicao>
+                <ValorAquisicao>74.90</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="9">
+			    <NLinha>959</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>5</DiaRealizacao>
+                <ValorRealizacao>86.66</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>6</MesAquisicao>
+                <DiaAquisicao>21</DiaAquisicao>
+                <ValorAquisicao>75.05</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="10">
+			    <NLinha>960</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>12</DiaRealizacao>
+                <ValorRealizacao>16.92</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>2</MesAquisicao>
+                <DiaAquisicao>2</DiaAquisicao>
+                <ValorAquisicao>17.31</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="11">
+			    <NLinha>961</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>12</DiaRealizacao>
+                <ValorRealizacao>2.21</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>1</MesAquisicao>
+                <DiaAquisicao>25</DiaAquisicao>
+                <ValorAquisicao>2.22</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="12">
+			    <NLinha>962</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>12</DiaRealizacao>
+                <ValorRealizacao>62.91</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>1</MesAquisicao>
+                <DiaAquisicao>22</DiaAquisicao>
+                <ValorAquisicao>63.18</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="13">
+			    <NLinha>963</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>12</DiaRealizacao>
+                <ValorRealizacao>12.63</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>2</MesAquisicao>
+                <DiaAquisicao>5</DiaAquisicao>
+                <ValorAquisicao>12.87</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="14">
+			    <NLinha>964</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>12</DiaRealizacao>
+                <ValorRealizacao>0.96</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>2</MesAquisicao>
+                <DiaAquisicao>8</DiaAquisicao>
+                <ValorAquisicao>0.98</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="15">
+			    <NLinha>965</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>12</DiaRealizacao>
+                <ValorRealizacao>3.66</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>1</MesAquisicao>
+                <DiaAquisicao>24</DiaAquisicao>
+                <ValorAquisicao>3.68</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="16">
+			    <NLinha>966</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>12</DiaRealizacao>
+                <ValorRealizacao>30.78</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>1</MesAquisicao>
+                <DiaAquisicao>29</DiaAquisicao>
+                <ValorAquisicao>31.17</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="17">
+			    <NLinha>967</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>15</DiaRealizacao>
+                <ValorRealizacao>201.20</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>7</MesAquisicao>
+                <DiaAquisicao>28</DiaAquisicao>
+                <ValorAquisicao>181.07</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="18">
+			    <NLinha>968</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>15</DiaRealizacao>
+                <ValorRealizacao>526.13</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>6</MesAquisicao>
+                <DiaAquisicao>21</DiaAquisicao>
+                <ValorAquisicao>446.27</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="19">
+			    <NLinha>969</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>15</DiaRealizacao>
+                <ValorRealizacao>527.17</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>5</MesAquisicao>
+                <DiaAquisicao>30</DiaAquisicao>
+                <ValorAquisicao>440.94</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="20">
+			    <NLinha>970</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>15</DiaRealizacao>
+                <ValorRealizacao>87.57</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>9</MesAquisicao>
+                <DiaAquisicao>19</DiaAquisicao>
+                <ValorAquisicao>78.16</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="21">
+			    <NLinha>971</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>15</DiaRealizacao>
+                <ValorRealizacao>174.91</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>12</MesAquisicao>
+                <DiaAquisicao>28</DiaAquisicao>
+                <ValorAquisicao>162.90</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="22">
+			    <NLinha>972</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>15</DiaRealizacao>
+                <ValorRealizacao>262.23</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>8</MesAquisicao>
+                <DiaAquisicao>30</DiaAquisicao>
+                <ValorAquisicao>233.52</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="23">
+			    <NLinha>973</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>15</DiaRealizacao>
+                <ValorRealizacao>201.18</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>5</MesAquisicao>
+                <DiaAquisicao>31</DiaAquisicao>
+                <ValorAquisicao>171.38</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="24">
+			    <NLinha>974</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>15</DiaRealizacao>
+                <ValorRealizacao>112.73</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>6</MesAquisicao>
+                <DiaAquisicao>23</DiaAquisicao>
+                <ValorAquisicao>95.10</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="25">
+			    <NLinha>975</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>15</DiaRealizacao>
+                <ValorRealizacao>24.83</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>7</MesAquisicao>
+                <DiaAquisicao>17</DiaAquisicao>
+                <ValorAquisicao>20.16</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="26">
+			    <NLinha>976</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>15</DiaRealizacao>
+                <ValorRealizacao>200.65</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>9</MesAquisicao>
+                <DiaAquisicao>28</DiaAquisicao>
+                <ValorAquisicao>178.07</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="27">
+			    <NLinha>977</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>15</DiaRealizacao>
+                <ValorRealizacao>112.39</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>8</MesAquisicao>
+                <DiaAquisicao>8</DiaAquisicao>
+                <ValorAquisicao>96.78</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="28">
+			    <NLinha>978</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>15</DiaRealizacao>
+                <ValorRealizacao>200.23</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>8</MesAquisicao>
+                <DiaAquisicao>3</DiaAquisicao>
+                <ValorAquisicao>174.62</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="29">
+			    <NLinha>979</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>15</DiaRealizacao>
+                <ValorRealizacao>87.88</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>7</MesAquisicao>
+                <DiaAquisicao>12</DiaAquisicao>
+                <ValorAquisicao>75.29</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="30">
+			    <NLinha>980</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>15</DiaRealizacao>
+                <ValorRealizacao>24.83</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>8</MesAquisicao>
+                <DiaAquisicao>1</DiaAquisicao>
+                <ValorAquisicao>20.87</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="31">
+			    <NLinha>981</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>15</DiaRealizacao>
+                <ValorRealizacao>225.48</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>11</MesAquisicao>
+                <DiaAquisicao>20</DiaAquisicao>
+                <ValorAquisicao>201.77</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="32">
+			    <NLinha>982</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>15</DiaRealizacao>
+                <ValorRealizacao>24.86</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>7</MesAquisicao>
+                <DiaAquisicao>3</DiaAquisicao>
+                <ValorAquisicao>20.51</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="33">
+			    <NLinha>983</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>15</DiaRealizacao>
+                <ValorRealizacao>312.80</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>10</MesAquisicao>
+                <DiaAquisicao>30</DiaAquisicao>
+                <ValorAquisicao>265.21</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="34">
+			    <NLinha>984</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>16</DiaRealizacao>
+                <ValorRealizacao>179.02</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>2</MesAquisicao>
+                <DiaAquisicao>1</DiaAquisicao>
+                <ValorAquisicao>172.62</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="35">
+			    <NLinha>985</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>16</DiaRealizacao>
+                <ValorRealizacao>174.58</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>2</MesAquisicao>
+                <DiaAquisicao>5</DiaAquisicao>
+                <ValorAquisicao>171.66</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="36">
+			    <NLinha>986</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>16</DiaRealizacao>
+                <ValorRealizacao>1582.93</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>2</MesAquisicao>
+                <DiaAquisicao>15</DiaAquisicao>
+                <ValorAquisicao>1574.80</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="37">
+			    <NLinha>987</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>3</MesRealizacao>
+				<DiaRealizacao>21</DiaRealizacao>
+                <ValorRealizacao>347.87</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>2</MesAquisicao>
+                <DiaAquisicao>15</DiaAquisicao>
+                <ValorAquisicao>332.31</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="38">
+			    <NLinha>988</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>5</MesRealizacao>
+				<DiaRealizacao>14</DiaRealizacao>
+                <ValorRealizacao>284.60</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>3</MesAquisicao>
+                <DiaAquisicao>21</DiaAquisicao>
+                <ValorAquisicao>290.73</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="39">
+			    <NLinha>989</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>134.53</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>2</MesAquisicao>
+                <DiaAquisicao>16</DiaAquisicao>
+                <ValorAquisicao>123.50</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="40">
+			    <NLinha>990</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>79.92</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>1</MesAquisicao>
+                <DiaAquisicao>24</DiaAquisicao>
+                <ValorAquisicao>70.51</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="41">
+			    <NLinha>991</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>20.66</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>2</MesAquisicao>
+                <DiaAquisicao>8</DiaAquisicao>
+                <ValorAquisicao>18.82</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="42">
+			    <NLinha>992</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>418.63</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>11</MesAquisicao>
+                <DiaAquisicao>29</DiaAquisicao>
+                <ValorAquisicao>341.51</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="43">
+			    <NLinha>993</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>242.93</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>2</MesAquisicao>
+                <DiaAquisicao>12</DiaAquisicao>
+                <ValorAquisicao>241.52</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="44">
+			    <NLinha>994</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>362.06</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>5</MesAquisicao>
+                <DiaAquisicao>29</DiaAquisicao>
+                <ValorAquisicao>349.55</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="45">
+			    <NLinha>995</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>368.14</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>2</MesAquisicao>
+                <DiaAquisicao>2</DiaAquisicao>
+                <ValorAquisicao>329.11</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="46">
+			    <NLinha>996</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>1266.02</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>1</MesAquisicao>
+                <DiaAquisicao>22</DiaAquisicao>
+                <ValorAquisicao>1117.91</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="47">
+			    <NLinha>997</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>109.00</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>2</MesAquisicao>
+                <DiaAquisicao>20</DiaAquisicao>
+                <ValorAquisicao>98.97</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="48">
+			    <NLinha>998</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>269.97</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>2</MesAquisicao>
+                <DiaAquisicao>5</DiaAquisicao>
+                <ValorAquisicao>244.58</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="49">
+			    <NLinha>999</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>28.41</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>5</MesAquisicao>
+                <DiaAquisicao>16</DiaAquisicao>
+                <ValorAquisicao>27.74</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="50">
+			    <NLinha>1000</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>21.19</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>3</MesAquisicao>
+                <DiaAquisicao>18</DiaAquisicao>
+                <ValorAquisicao>19.81</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="51">
+			    <NLinha>1001</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>154.52</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>6</MesAquisicao>
+                <DiaAquisicao>7</DiaAquisicao>
+                <ValorAquisicao>151.91</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="52">
+			    <NLinha>1002</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>370.71</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>1</MesAquisicao>
+                <DiaAquisicao>11</DiaAquisicao>
+                <ValorAquisicao>318.24</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="53">
+			    <NLinha>1003</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>223.48</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>10</MesAquisicao>
+                <DiaAquisicao>26</DiaAquisicao>
+                <ValorAquisicao>172.94</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="54">
+			    <NLinha>1004</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>120.43</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>5</MesAquisicao>
+                <DiaAquisicao>15</DiaAquisicao>
+                <ValorAquisicao>118.39</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="55">
+			    <NLinha>1005</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>48.27</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>1</MesAquisicao>
+                <DiaAquisicao>25</DiaAquisicao>
+                <ValorAquisicao>42.62</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="56">
+			    <NLinha>1006</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>20.35</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>4</MesAquisicao>
+                <DiaAquisicao>3</DiaAquisicao>
+                <ValorAquisicao>19.46</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="57">
+			    <NLinha>1007</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>322.39</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>12</MesAquisicao>
+                <DiaAquisicao>4</DiaAquisicao>
+                <ValorAquisicao>267.28</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="58">
+			    <NLinha>1008</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>107.58</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>2</MesAquisicao>
+                <DiaAquisicao>28</DiaAquisicao>
+                <ValorAquisicao>98.99</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="59">
+			    <NLinha>1009</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>65.94</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>5</MesAquisicao>
+                <DiaAquisicao>17</DiaAquisicao>
+                <ValorAquisicao>65.28</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="60">
+			    <NLinha>1010</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>209.67</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>12</MesAquisicao>
+                <DiaAquisicao>28</DiaAquisicao>
+                <ValorAquisicao>177.66</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="61">
+			    <NLinha>1011</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>665.45</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>1</MesAquisicao>
+                <DiaAquisicao>29</DiaAquisicao>
+                <ValorAquisicao>592.38</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="62">
+			    <NLinha>1012</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>1412.93</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>2</MesAquisicao>
+                <DiaAquisicao>15</DiaAquisicao>
+                <ValorAquisicao>1296.01</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="63">
+			    <NLinha>1013</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>39.68</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>5</MesAquisicao>
+                <DiaAquisicao>13</DiaAquisicao>
+                <ValorAquisicao>38.77</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="64">
+			    <NLinha>1014</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>16.08</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>2</MesAquisicao>
+                <DiaAquisicao>27</DiaAquisicao>
+                <ValorAquisicao>14.79</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="65">
+			    <NLinha>1015</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>16.15</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>2</MesAquisicao>
+                <DiaAquisicao>29</DiaAquisicao>
+                <ValorAquisicao>14.83</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="66">
+			    <NLinha>1016</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>21.77</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>11</MesAquisicao>
+                <DiaAquisicao>20</DiaAquisicao>
+                <ValorAquisicao>17.65</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="67">
+			    <NLinha>1017</NLinha>
+				<CodPais>372</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>7</MesRealizacao>
+				<DiaRealizacao>29</DiaRealizacao>
+                <ValorRealizacao>16.99</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>5</MesAquisicao>
+                <DiaAquisicao>14</DiaAquisicao>
+                <ValorAquisicao>16.38</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="68">
+			    <NLinha>1018</NLinha>
+				<CodPais>840</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>1</MesRealizacao>
+				<DiaRealizacao>10</DiaRealizacao>
+                <ValorRealizacao>10.03</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>6</MesAquisicao>
+                <DiaAquisicao>12</DiaAquisicao>
+                <ValorAquisicao>10.24</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="69">
+			    <NLinha>1019</NLinha>
+				<CodPais>840</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>1</MesRealizacao>
+				<DiaRealizacao>10</DiaRealizacao>
+                <ValorRealizacao>157.16</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>6</MesAquisicao>
+                <DiaAquisicao>21</DiaAquisicao>
+                <ValorAquisicao>160.32</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="70">
+			    <NLinha>1020</NLinha>
+				<CodPais>840</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>1</MesRealizacao>
+				<DiaRealizacao>10</DiaRealizacao>
+                <ValorRealizacao>167.19</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>5</MesAquisicao>
+                <DiaAquisicao>16</DiaAquisicao>
+                <ValorAquisicao>158.97</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.01</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="71">
+			    <NLinha>1021</NLinha>
+				<CodPais>840</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>2</MesRealizacao>
+				<DiaRealizacao>7</DiaRealizacao>
+                <ValorRealizacao>173.78</ValorRealizacao>
+                <AnoAquisicao>2023</AnoAquisicao>
+                <MesAquisicao>7</MesAquisicao>
+                <DiaAquisicao>19</DiaAquisicao>
+                <ValorAquisicao>263.80</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="72">
+			    <NLinha>1022</NLinha>
+				<CodPais>840</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>5</MesRealizacao>
+				<DiaRealizacao>13</DiaRealizacao>
+                <ValorRealizacao>161.12</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>2</MesAquisicao>
+                <DiaAquisicao>7</DiaAquisicao>
+                <ValorAquisicao>173.70</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="73">
+			    <NLinha>1023</NLinha>
+				<CodPais>840</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>5</MesRealizacao>
+				<DiaRealizacao>14</DiaRealizacao>
+                <ValorRealizacao>110.39</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>5</MesAquisicao>
+                <DiaAquisicao>13</DiaAquisicao>
+                <ValorAquisicao>60.95</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.01</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="74">
+			    <NLinha>1024</NLinha>
+				<CodPais>840</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>5</MesRealizacao>
+				<DiaRealizacao>15</DiaRealizacao>
+                <ValorRealizacao>134.32</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>5</MesAquisicao>
+                <DiaAquisicao>14</DiaAquisicao>
+                <ValorAquisicao>220.73</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.01</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="75">
+			    <NLinha>1025</NLinha>
+				<CodPais>840</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>5</MesRealizacao>
+				<DiaRealizacao>15</DiaRealizacao>
+                <ValorRealizacao>71.54</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>5</MesAquisicao>
+                <DiaAquisicao>13</DiaAquisicao>
+                <ValorAquisicao>60.95</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.01</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="76">
+			    <NLinha>1026</NLinha>
+				<CodPais>840</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>5</MesRealizacao>
+				<DiaRealizacao>15</DiaRealizacao>
+                <ValorRealizacao>38.41</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>5</MesAquisicao>
+                <DiaAquisicao>15</DiaAquisicao>
+                <ValorAquisicao>36.03</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.00</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha><AnexoJq092AT01-Linha numero="77">
+			    <NLinha>1027</NLinha>
+				<CodPais>840</CodPais>
+				<Codigo>G01</Codigo>
+				<AnoRealizacao>2024</AnoRealizacao>
+				<MesRealizacao>5</MesRealizacao>
+				<DiaRealizacao>16</DiaRealizacao>
+                <ValorRealizacao>27.51</ValorRealizacao>
+                <AnoAquisicao>2024</AnoAquisicao>
+                <MesAquisicao>5</MesAquisicao>
+                <DiaAquisicao>15</DiaAquisicao>
+                <ValorAquisicao>36.03</ValorAquisicao>
+                <CodPaisContraparte>620</CodPaisContraparte>
+                <DespesasEncargos>0.01</DespesasEncargos>
+                <ImpostoPagoNoEstrangeiro>0.00</ImpostoPagoNoEstrangeiro>
+			</AnexoJq092AT01-Linha></AnexoJq092AT01>
+<AnexoJq092AT01SomaC01>15802.92</AnexoJq092AT01SomaC01>
+<AnexoJq092AT01SomaC02>14672.49</AnexoJq092AT01SomaC02>
+<AnexoJq092AT01SomaC03>0.05</AnexoJq092AT01SomaC03>
+<AnexoJq092AT01SomaC04>0.00</AnexoJq092AT01SomaC04>
+<AnexoJq092A1T01 />
+<AnexoJq092BT01 />
+<AnexoJq094AT01 />
+</Quadro09>
+<Quadro10>
+<AnexoJq10AT01 />
+<AnexoJq10BT01 />
+</Quadro10>
+<Quadro11>
+<AnexoJq11T01 />
+<AnexoJq11T02 />
+</Quadro11>
+</AnexoJ>
+</Modelo3IRSv2025>
